@@ -56,7 +56,7 @@ You can create a free webhook for testing at [https://webhook.site](https://webh
 
 ## Output Sample:
 The following screenshot is an output sample using Webhook
-[Output](Output.png)
+![Output](Output.png)
 ---
 
 ## 🔐 Ethical Usage
