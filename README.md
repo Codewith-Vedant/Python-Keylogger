@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-A lightweight, **Windows-only keylogger** built in Python that runs silently, captures keyboard input, tracks active application changes, and logs everything per session. On closing or switching applications, the data is automatically sent to a specified **Webhook URL**.
+A lightweight, **Windows-only keylogger** built in Python that runs silently, captures keyboard input, tracks active application changes, and logs everything per session. On closing or switching applications, the data is automatically sent to a specified **Webhook URL** or **Personal Website URL**. This tool is tested in Windows 24H2, and the antivirus doesn't detect it.
 
 ---
 
@@ -46,6 +46,12 @@ Edit `keylogger.py` and set your own webhook URL:
 ```
 
 You can create a free webhook for testing at [https://webhook.site](https://webhook.site).
+
+### ⚙️ 3. Create an application(optional)
+```bash
+    pip install pyinstaller
+    python -m PyInstaller --noconsole --onefile key.py
+```
 
 ---
 
