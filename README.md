@@ -61,8 +61,9 @@ You can create a free webhook for testing at [https://webhook.site](https://webh
 ```
 
 ## Output Sample:
-The following screenshot is an output sample using Webhook
-![Output](Output.png)
+The following POC and screenshot is an output sample using Webhook
+![POC](poc.mp4)
+![Output](output.png)
 ---
 
 ## 🔐 Ethical Usage
